@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "learn-python",
+    "courseTitle": "Learn Python: Python for Beginners",
+    "breadcrumbs": [
+      {
+        "text": "Home",
+        "url": "/"
+      },
+      {
+        "text": "Development",
+        "url": "/courses/development"
+      },
+      {
+        "text": "Programming Languages",
+        "url": "/courses/development/programming-languages"
+      },
+      {
+        "text": "Python",
+        "url": "/course/python"
+      }
+    ]
+  }
+]
